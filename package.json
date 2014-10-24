@@ -1,0 +1,33 @@
+{
+  "name": "youku-api-search",
+  "version": "0.1.0",
+  "description": "youku search api for node.js",
+  "main": "index.js",
+  "dependencies": {
+    "request": "^2.45.0"
+  },
+  "devDependencies": {
+    "istanbul": "^0.3.2",
+    "mocha": "^1.21.5",
+    "should": "^4.0.4"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/lisposter/node-youku-api-search.git"
+  },
+  "bugs": {
+    "url": "https://github.com/lisposter/node-youku-api-search/issues"
+  },
+  "homepage": "https://github.com/lisposter/node-youku-api-search",
+  "keywords": [
+    "youku",
+    "video",
+    "api",
+    "sdk"
+  ],
+  "author": "Leigh Zhu",
+  "license": "MIT"
+}
